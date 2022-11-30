@@ -1,1 +1,1 @@
-# EDA---House-Price-Prediction
+# EDA for House Price Prediction
